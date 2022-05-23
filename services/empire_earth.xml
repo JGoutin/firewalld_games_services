@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<service>
+  <short>Empire Earth</short>
+  <description>Empire Earth, multiplayer host server.</description>
+  <port protocol="tcp" port="33335-33336"/>
+  <port protocol="udp" port="33334"/>
+</service>

@@ -1,0 +1,8 @@
+# IDE
+.project
+.pydevproject
+.settings/
+.spyderproject
+.spyproject
+.vscode/
+.idea/
