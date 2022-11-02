@@ -15,6 +15,7 @@ in their Linux version if exists, if not this is specified.
 * Empire Earth[^win]
 * Factorio ([Dedicated headless Linux amd64 server download](https://factorio.com/get-download/latest/headless/linux64)).
 * Minecraft Java Edition (Dedicated server can be downloaded from [here](https://www.minecraft.net/en-us/download/server))
+* Stellaris
 * Streets of Rogue
 * Terraria (Dedicated server can be downloaded from [here](https://www.terraria.org/))
 

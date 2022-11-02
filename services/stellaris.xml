@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<service>
+  <short>Stellaris</short>
+  <description>Stellaris, multiplayer host server.</description>
+  <port protocol="udp" port="17780-17785"/>
+</service>
