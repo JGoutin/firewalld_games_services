@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<service>
+  <short>Vintage Story</short>
+  <description>Vintage Story, multiplayer host server.</description>
+  <port protocol="tcp" port="42420"/>
+</service>

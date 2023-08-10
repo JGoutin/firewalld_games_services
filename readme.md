@@ -9,8 +9,8 @@ This is suitable for workstation running games, or dedicated game server.
 
 Services are provided for the games listed below.
 
-If a dedicated server is freely available, a link is provided. Games always runs
-in their Linux version if exists, if not this is specified.
+If a dedicated server is freely available, a link is provided. Games always run
+in their Linux version if it exists, if not, this is specified.
 
 * Empire Earth[^win]
 * Factorio ([Dedicated headless Linux amd64 server download](https://factorio.com/get-download/latest/headless/linux64)).
@@ -18,6 +18,7 @@ in their Linux version if exists, if not this is specified.
 * Stellaris
 * Streets of Rogue
 * Terraria (Dedicated server can be downloaded from [here](https://www.terraria.org/))
+* Vintage Story (Dedicated server available on client download page)
 
 [^win]: Windows version running with [Wine](https://www.winehq.org/).
 
@@ -27,7 +28,7 @@ To install a service, copy its XML file into `/etc/firewalld/services`
 (or `/usr/lib/firewalld/services`).
  
 To enable a service, run the following commands 
-(`SERVICE` need to replaced by the service name):
+(`SERVICE` need to be replaced by the service name):
 ```bash
 sudo firewall-cmd --add-service=SERVICE --permanent
 sudo firewall-cmd --reload
