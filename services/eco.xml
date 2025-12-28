@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<service>
+  <short>Eco</short>
+  <description>Eco, multiplayer host server.</description>
+  <port protocol="tcp" port="3001"/>
+  <port protocol="udp" port="3000"/>
+</service>

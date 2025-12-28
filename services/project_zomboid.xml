@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<service>
+  <short>Project Zomboid</short>
+  <description>Project Zomboid, multiplayer host server.</description>
+  <port protocol="udp" port="16261"/>
+  <port protocol="udp" port="16262"/>
+</service>
