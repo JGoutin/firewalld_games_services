@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<service>
+  <short>Enshrouded</short>
+  <description>Enshrouded, multiplayer host server.</description>
+  <port protocol="udp" port="15636-15637"/>
+</service>

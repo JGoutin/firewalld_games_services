@@ -13,6 +13,7 @@ If a dedicated server is freely available, a link is provided. Games always run 
 
 * Eco ([Setting up server](https://wiki.play.eco/en/Setting_Up_a_Server))
 * Empire Earth[^win]
+* Enshrouded ([Setting up server](https://enshrouded.zendesk.com/hc/en-us/articles/16056312924957-Dedicated-Server-FAQ))
 * Factorio ([Dedicated headless Linux amd64 server download](https://factorio.com/get-download/latest/headless/linux64)).
 * Minecraft Java Edition (Dedicated server can be downloaded from [here](https://www.minecraft.net/en-us/download/server))
 * Project Zomboid ([Setting up server](https://pzwiki.net/wiki/Dedicated_server))
